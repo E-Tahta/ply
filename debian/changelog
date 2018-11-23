@@ -1,3 +1,9 @@
+ply (3.9-1pardus1) unstable; urgency=medium
+
+  * Pardus CI integration
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Fri, 23 Nov 2018 16:26:58 +0300
+
 ply (3.9-1~bpo8+1) jessie-backports; urgency=medium
 
   * Straight backport from testing, no changes applied.
